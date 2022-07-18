@@ -1,2 +1,2 @@
 # viewUtilsOdoo
-Funcstions that allow to see and compare the information.
+Functions that allow to see and compare the information.
